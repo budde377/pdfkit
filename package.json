@@ -23,20 +23,20 @@
   "bugs": "http://github.com/devongovett/pdfkit/issues",
   "devDependencies": {
     "blob-stream": "^0.1.2",
-    "brace": "^0.2.1",
-    "brfs": "~1.0.1",
-    "browserify": "^3.39.0",
-    "codemirror": "~3.20.0",
+    "brace": "^0.9.1",
+    "brfs": "~1.4.3",
+    "browserify": "^13.3.0",
+    "codemirror": "~5.22.2",
     "coffee-script": ">=1.0.1",
-    "coffeeify": "^0.6.0",
-    "exorcist": "^0.1.5",
+    "coffeeify": "^2.1.0",
+    "exorcist": "^0.4.0",
     "iconv-lite": "^0.4.13",
-    "jade": "~1.1.5",
+    "jade": "~1.11.0",
     "markdown": "~0.5.0"
   },
   "dependencies": {
     "fontkit": "^1.0.0",
-    "linebreak": "~0.1.0",
+    "linebreak": "~0.3.0",
     "png-js": ">=0.1.0"
   },
   "scripts": {
