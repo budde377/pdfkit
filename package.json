@@ -23,7 +23,7 @@
   "bugs": "http://github.com/devongovett/pdfkit/issues",
   "devDependencies": {
     "blob-stream": "^0.1.2",
-    "brace": "^0.9.1",
+    "brace": "^0.10.0",
     "brfs": "~1.4.3",
     "browserify": "^13.3.0",
     "codemirror": "~5.22.2",
