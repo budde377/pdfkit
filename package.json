@@ -26,7 +26,7 @@
     "brace": "^0.9.1",
     "brfs": "~1.4.3",
     "browserify": "^13.3.0",
-    "codemirror": "~5.22.2",
+    "codemirror": "~5.25.2",
     "coffee-script": ">=1.0.1",
     "coffeeify": "^2.1.0",
     "exorcist": "^0.4.0",
