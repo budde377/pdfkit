@@ -30,7 +30,7 @@
     "coffee-script": ">=1.0.1",
     "coffeeify": "^2.1.0",
     "exorcist": "^0.4.0",
-    "iconv-lite": "^0.4.13",
+    "iconv-lite": "^0.4.16",
     "jade": "~1.11.0",
     "markdown": "~0.5.0"
   },
